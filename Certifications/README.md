@@ -1,1 +1,21 @@
+# 🚀 Omkar Jadhav | HiL Architect Certifications
 
+## Active Certifications [file:141]
+| Certification | Provider | Year | PDF |
+|---------------|----------|------|-----|
+| [HiL Test Automation](Typhoon_HiL.pdf) | Typhoon HIL, Inc. | 2024 | BESS/PCS FRT |
+| [ISTQB Foundation (CTFL)](ISTQB_CTFL.pdf) | edForce | 2023 | ASPICE SWE.5/6 |
+| [Machine Learning](Coursera_ML.pdf) | Coursera | 2023 | RAG Automation |
+| [Professional Certificates](Other_3_PDFs) | Various | 2023-24 | HiL/Embedded |
+
+## 📊 Impact Metrics [file:141]
+- **30% regression reduction** via PyTest HiL framework
+- **50% coverage increase** dSPACE SCALEXIO
+- **AI-RAG test generation** (Ollama/Mistral)
+
+## 🎯 In Progress Q1 2026
+- ISO 26262 ASIL-D (Vector)
+- NVIDIA Jetson AI Certification
+- SysML v2 MBSE (INCOSE)
+
+**IIT MTech | Fluence Energy(Siemens & AES) | Mercedes-Benz R&D**

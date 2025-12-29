@@ -1,1 +1,1 @@
-
+Worked on this topic as my MTech final year project. In this project I checked the feasibility of charging drones wirelessly using the latest tech IRS(Intelligent Reflecting Surface) which will adjust phase and amplitude of incident energy to a point where UAV is present in a constructive interference.

@@ -12,11 +12,6 @@ By using a local vector database, the system ensures that the LLM (Mistral) has 
 
 ---
 
-## 📽️ Demo
-![RAG Test Generation Demo](demo.gif)
-*Watch the system retrieve requirements and generate functional PyTest files in real-time.*
-
----
 
 ## 🛠️ Technical Architecture
 The pipeline follows a modern RAG architecture:
@@ -46,4 +41,16 @@ The pipeline follows a modern RAG architecture:
 │   └── prompts.py         # Prompts for test generation
 ├── tests/
 │   └── test_01.py         # Entry point for test generation
+
 └── generated_tests/       # Output folder for AI-generated test suites
+```
+---
+
+## 🏗️ Installation & Environment Setup
+
+1) git clone https://github.com/"your-username/repo-name".git
+2) cd "repo-name"
+3) python -m venv .venv
+4) source .venv/bin/activate  - Mac/Linux
+5) .\.venv\Scripts\activate - Windows
+6) pip install -r requirements.txt
